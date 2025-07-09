@@ -28,7 +28,7 @@ Currently, the tool supports automation on:
 
 ## How It Works
 
-Break The Loop Now uses Playwright for browser automation and an Express server to provide an API interface. When given a product URL, it:
+klickndone uses Playwright for browser automation and an Express server to provide an API interface. When given a product URL, it:
 
 1. Opens the website in a controlled browser environment
 2. Navigates through the purchase flow
@@ -49,8 +49,8 @@ The system is designed to be robust against UI changes and to handle unexpected 
 
 ```bash
 # Clone the repository
-git clone https://github.com/thiagosanches/break-the-loop-now.git
-cd break-the-loop-now
+git clone https://github.com/thiagosanches/klickndone.git
+cd klickndone
 
 # Install dependencies
 npm install
@@ -83,7 +83,7 @@ This tool is designed with privacy in mind. All sensitive information (payment d
 
 ## Disclaimer
 
-Break The Loop Now is a supportive tool and not a replacement for professional mental health treatment for anxiety-related concerns. It's designed to be used as part of a broader approach to managing anxiety during online shopping experiences. If you're struggling with significant anxiety, please consider seeking help from a qualified mental health professional.
+klickndone is a supportive tool and not a replacement for professional mental health treatment for anxiety-related concerns. It's designed to be used as part of a broader approach to managing anxiety during online shopping experiences. If you're struggling with significant anxiety, please consider seeking help from a qualified mental health professional.
 
 ## Contributing
 
@@ -93,3 +93,4 @@ Contributions that improve accessibility, reduce stress points in the shopping e
 
 [MIT License](LICENSE)
 # klickndone
+# klicknd0ne
